@@ -11,5 +11,18 @@ package Model;
  */
 public class Nodo {
     
-    public int Dato;
+    public Nodo ant;
+    public int dato;
+    public Nodo sig;
+    
+    public Nodo(){
+        ant = null;
+        sig = null;
+    }
+    
+    public Nodo(int x){
+        dato = x;
+        ant = null;
+        sig = null;
+    }
 }
