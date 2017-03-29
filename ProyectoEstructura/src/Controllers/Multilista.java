@@ -5,10 +5,13 @@
  */
 package Controllers;
 
+import Model.Nodo;
+
 /**
  *
  * @author Miguel
  */
 public class Multilista {
     
+    private Nodo raiz;
 }
