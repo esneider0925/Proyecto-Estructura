@@ -14,4 +14,5 @@ import Model.Nodo;
 public class Multilista {
     
     private Nodo raiz;
+    private int size;
 }
