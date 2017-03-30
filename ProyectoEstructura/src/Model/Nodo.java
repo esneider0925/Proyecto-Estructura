@@ -20,8 +20,8 @@ public class Nodo {
         sig = null;
     }
     
-    public Nodo(int x){
-        dato = x;
+    public Nodo(int n){
+        dato = n;
         ant = null;
         sig = null;
     }
