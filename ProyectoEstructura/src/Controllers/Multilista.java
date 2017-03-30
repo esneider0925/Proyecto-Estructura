@@ -15,4 +15,8 @@ public class Multilista {
     
     private Nodo raiz;
     private int size;
+    
+    public void Metodo(){
+        
+    }
 }
