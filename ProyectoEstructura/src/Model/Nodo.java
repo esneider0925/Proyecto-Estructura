@@ -14,6 +14,7 @@ public class Nodo {
     public Nodo ant;
     public int dato;
     public Nodo sig;
+    public Nodo lista;
     
     public Nodo(){
         ant = null;
